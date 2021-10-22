@@ -6,4 +6,4 @@ Task 1:
 fetch gets updates from a remote server
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-
+Github is a remote cloud based storage that manages Git repostitories while Git is a version control system that tracks the history of your code
